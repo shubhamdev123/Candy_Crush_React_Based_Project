@@ -1,6 +1,7 @@
 # Candy Crush in React
+![Candy Crush Using React](https://github.com/shubhamdev123/Candy_Crush_React_Based_Project/assets/96860714/798ff6df-6d7f-4533-a3bd-e1b48c613314)
 
-This project is in support of the tutorial found [here](https://www.youtube.com/watch?v=PBrEq9Wd6_U)
+
 
 ### To Start This Project
 
